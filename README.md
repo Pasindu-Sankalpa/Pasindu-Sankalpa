@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pasindu-Sankalpa
-- 👀 I’m interested in coding with python, c, c++
+- 👀 I’m interested in coding with python, matlab, c, c++
 - 🌱 I’m currently learning electronic & telecommunication engineering.
 - 💞️ I’m looking to collaborate on new project design ideas.
 - 📫 You can reach me from,
