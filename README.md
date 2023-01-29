@@ -6,7 +6,7 @@
   - Email &emsp;&emsp;&ensp; 📧 : psndsankalpa@gmail.com
   - Linkedin &emsp;&nbsp; 🎓 : https://www.linkedin.com/in/pasindu-sankalpa-64979217a
   - Twitter &emsp;&emsp; 📰 : https://twitter.com/Psnd_Snklp
-  - FaceBook &emsp; 👍 : https://www.facebook.com/psnd.snklp
+  - Facebook &emsp; 👍 : https://www.facebook.com/psnd.snklp
   - Github &emsp;&emsp; 💾 : https://github.com/Pasindu-Sankalpa
   - Fiverr &emsp;&emsp;&ensp; 🛒 : https://www.fiverr.com/itmasterpasindu
   - HackerRank 👨‍💻 : https://www.hackerrank.com/psndsankalpa
