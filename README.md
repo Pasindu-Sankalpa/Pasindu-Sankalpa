@@ -4,7 +4,7 @@
 - 🤝🏻 I’m looking to collaborate on new project design ideas.
 - 📫 You can reach me from,
   - Email &emsp;&emsp;&ensp; 📧 : psndsankalpa@gmail.com
-  - Linkedin &emsp;&nbsp; 🎓 : https://www.linkedin.com/in/pasindu-sankalpa-64979217a
+  - LinkedIn &emsp;&nbsp; 🎓 : https://www.linkedin.com/in/pasindu-sankalpa-64979217a
   - Twitter &emsp;&emsp; 📰 : https://twitter.com/Psnd_Snklp
   - Facebook &emsp; 👍 : https://www.facebook.com/psnd.snklp
   - Github &emsp;&emsp; 💾 : https://github.com/Pasindu-Sankalpa
