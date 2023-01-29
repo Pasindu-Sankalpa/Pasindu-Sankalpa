@@ -1,3 +1,5 @@
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Pasindu-Sankalpa/Pasindu-Sankalpa)
+
 - 👋 Hi, I’m Pasindu-Sankalpa.
 - 👀 I’m interested in coding with python, matlab, c, c++, java, etc.
 - 👨‍🎓 I’m currently an undergraduate of Electronic & Telecommunication Engineering Department of University of Moratuwa, Sri Lanka.
@@ -19,6 +21,11 @@
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=tokyonight)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)
+<!--- https://github.com/antonkomarev/github-profile-views-counter --->
+![Profile View Counter](https://komarev.com/ghpvc/?username=Pasindu-Sankalpa)
+<!--- https://github.com/ABSphreak/readme-jokes --->
+#### Tired ? Here👇 is a random joke for you.
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 <!--- ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod) --->
 
