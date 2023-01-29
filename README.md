@@ -13,13 +13,14 @@
   - Mobile &emsp;&emsp; 📞 : Private
   - Address &emsp;&ensp; 🏠 : Private
 
-<!---https://github.com/anuraghazra/github-readme-stats--->
+<!--- https://github.com/anuraghazra/github-readme-stats --->
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=Pasindu-Sankalpa&show_icons=true&theme=nightowl)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&theme=algolia)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&theme=tokyonight)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&theme=tokyonight)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=tokyonight)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)
 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&theme=blue-green)
+<!--- ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod) --->
 
 <!---
 Pasindu-Sankalpa/Pasindu-Sankalpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
