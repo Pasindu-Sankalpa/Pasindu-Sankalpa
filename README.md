@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pasindu-Sankalpa
-- 👀 I’m interested in coding with python, matlab, c, c++, java
-- 👨‍🎓 I’m currently an undergraduate of electronic & telecommunication engineering department of University of Moratuwa.
+- 👋 Hi, I’m Pasindu-Sankalpa.
+- 👀 I’m interested in coding with python, matlab, c, c++, java, etc.
+- 👨‍🎓 I’m currently an undergraduate of Electronic & Telecommunication Engineering Department of University of Moratuwa.
 - 🤝🏻 I’m looking to collaborate on new project design ideas.
 - 📫 You can reach me from,
   - Email &emsp;&emsp;&ensp; 📧 : psndsankalpa@gmail.com
