@@ -19,24 +19,24 @@
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 ## Status
 
-[![Stats Card-dark](https://github-readme-stats.vercel.app/api?username=Pasindu-Sankalpa&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Stats Card-light](https://github-readme-stats.vercel.app/api?username=Pasindu-Sankalpa&show_icons=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages Card-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&theme=algolia)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages Card-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Stats Card-dark](https://github-readme-stats.vercel.app/api?username=Pasindu-Sankalpa&show_icons=true&theme=nightowl)](status#gh-dark-mode-only)
+[![Stats Card-light](https://github-readme-stats.vercel.app/api?username=Pasindu-Sankalpa&show_icons=true&theme=solarized-light)](status#gh-light-mode-only)
+[![Top Languages Card-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&langs_count=3&theme=algolia)](lang#gh-dark-mode-only)
+[![Top Languages Card-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Sankalpa&langs_count=3&theme=solarized-light)](lang#gh-light-mode-only)
 
 <!--- https://github.com/antonkomarev/github-profile-views-counter --->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pasindu-Sankalpa)
 
 ## Top Projects
-[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=tokyonight)](repo#gh-dark-mode-only)
+[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)](repo#gh-dark-mode-only)
+[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=swift)](repo#gh-light-mode-only)
+[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=swift)](repo#gh-light-mode-only)
 
 <!--- https://github.com/ABSphreak/readme-jokes --->
-#### Tired ? Here👇 is a random joke for you.
-[![Jokes Card-dark](https://readme-jokes.vercel.app/api?theme=radical)](https://github.com/ABSphreak/readme-jokes#gh-dark-mode-only)
-[![Jokes Card-light](https://readme-jokes.vercel.app/api?theme=flag-india)](https://github.com/ABSphreak/readme-jokes#gh-light-mode-only)
+#### Tired? Here👇 is a random joke for you.😄
+[![Jokes Card-dark](https://readme-jokes.vercel.app/api?theme=radical)](jokes#gh-dark-mode-only)
+[![Jokes Card-light](https://readme-jokes.vercel.app/api?theme=flag-india)](jokes#gh-light-mode-only)
 
 <!--- ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod) --->
 
