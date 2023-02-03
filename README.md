@@ -36,7 +36,7 @@
 <!--- https://github.com/ABSphreak/readme-jokes --->
 #### Tired? Here👇 is a random joke for you.😄
 [![Jokes Card-dark](https://readme-jokes.vercel.app/api?theme=radical)](jokes#gh-dark-mode-only)
-[![Jokes Card-light](https://readme-jokes.vercel.app/api?theme=flag-india)](jokes#gh-light-mode-only)
+[![Jokes Card-light](https://readme-jokes.vercel.app/api?theme=buefy)](jokes#gh-light-mode-only)
 
 <!--- ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod) --->
 
