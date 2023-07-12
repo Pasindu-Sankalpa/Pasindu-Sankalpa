@@ -2,7 +2,7 @@
 
 ## About
 - 👋 Hi, I’m Pasindu Sankalpa.
-- 👀 I’m interested in coding with python, matlab, c, c++, java, etc.
+- 👀 I’m interested in coding with python, matlab, c, c++, java, java script, react, react native etc.
 - 👨‍🎓 I’m currently an undergraduate of Electronic & Telecommunication Engineering Department of University of Moratuwa, Sri Lanka.
 - 🤝🏻 I’m looking to collaborate on new project design ideas.
 - 📫 You can reach me from,
