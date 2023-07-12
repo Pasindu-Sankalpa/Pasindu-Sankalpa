@@ -32,8 +32,8 @@
 [![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=tokyonight)](https://aquamate-global.web.app/)
 [![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=Aquamate&show_owner=true&include_all_commits=true&theme=swift)](https://aquamate-global.web.app/)
 
-[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)]([repo](https://aquamate-global.web.app/)#gh-dark-mode-only)
-[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=swift)]([repo](https://aquamate-global.web.app/)#gh-light-mode-only)
+[![Repo Card-dark](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=tokyonight)](https://aquamate-global.web.app/#gh-dark-mode-only)
+[![Repo Card-light](https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Sankalpa&repo=project-SPARK&show_owner=true&include_all_commits=true&theme=swift)](https://aquamate-global.web.app/#gh-light-mode-only)
 
 <!--- https://github.com/ABSphreak/readme-jokes --->
 #### Tired? Here👇 is a random joke for you.😄
